@@ -1,0 +1,145 @@
+body{
+
+background-image: url("bgimage3.jpg");
+
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+.aaj{
+
+    border-style: solid;
+    border-color: gray;
+    border-width: 4px;
+    height: 500px;
+    width: 400px;
+    position: absolute;
+    left: 480px;
+    top: 80px;
+
+}
+
+.aaj:hover{
+
+background-color: azure;
+
+
+}
+
+
+
+.raj{
+    position: absolute;
+     left: 90px; 
+     top: 250px;
+    border-radius: 30px;
+    border-style: solid;
+border-width: 2px;
+border-color: gray;
+margin-left: 5px;
+padding-left: 55px;
+padding-right: 55px;
+padding-top: 9px;
+padding-bottom: 9px;
+}
+.raj:hover{
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    color: lawngreen;
+    background-color: gainsboro;
+    color: brown;
+    border-radius: 30px;
+    text-decoration: none;
+
+    
+    }
+
+
+
+    .taj{
+        position: absolute;
+         left: 90px; 
+         top: 315px;
+        border-radius: 30px;
+        border-style: solid;
+    border-width: 2px;
+    border-color: gray;
+    margin-left: 5px;
+    padding-left: 55px;
+    padding-right: 55px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    }
+    .taj:hover{
+        border-color: black;
+        border-style: solid;
+        border-width: 2px;
+        color: lawngreen;
+        background-color: gainsboro;
+        color: brown;
+        border-radius: 30px;
+        text-decoration: none;
+    
+        
+        }
+       
+.ved{
+
+    position: absolute;
+         left: 150px; 
+         top: 380px;
+        border-radius: 30px;
+        border-style: solid;
+    border-width: 2px;
+    border-color: gray;
+    margin-left: 5px;
+    padding-left: 55px;
+    padding-right: 55px;
+    padding-top: 8px;
+    padding-bottom: 9px;
+    background-color: royalblue;
+    }
+    .ved:hover{
+        border-color: black;
+        border-style: solid;
+        border-width: 2px;
+        color: lawngreen;
+        background-color: gainsboro;
+        color: red;
+        border-radius: 30px;
+        text-decoration: none;
+    
+        
+        }
+       
+.vansh{
+    position: absolute;
+         left: 25px; 
+         top: 260px;
+}     
+
+.tj{
+
+    position: absolute;
+         left: 25px; 
+         top: 325px;
+}
+.step1{
+
+    position: absolute;
+    left: 160px; 
+    top: 60px;
+    color: gray;
+
+}
+.step1:hover{
+
+    color: black;
+}
+
+.step2:hover{
+    color: red;
+
+}

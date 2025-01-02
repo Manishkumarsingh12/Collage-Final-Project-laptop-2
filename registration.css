@@ -1,0 +1,96 @@
+body{
+
+background-image: url("bgimage3.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+.raj{
+ 
+    border-style: solid;
+    border-color: gray;
+    border-width: 4px;
+    height: 500px;
+    width: 600px;
+    position: absolute;
+    left: 380px;
+    top: 80px;
+
+
+}
+.raj:hover{
+
+background-color: gainsboro;
+    border-color: black;
+
+}
+.taj:hover{
+color: lawngreen;
+background-color: royalblue;
+}
+
+.aaj:hover{
+    color: lawngreen;
+    background-color: royalblue;
+    }
+    
+.ved{
+
+    font-size: 25px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    position: absolute;
+    top: 23px;
+    left: 440px;
+}
+
+.ved0{
+
+    border-radius: 30px;
+    border-style: solid;
+border-width: 2px;
+border-color: gray;
+padding-left: 25px;
+padding-right: 25px;
+padding-top: 7px;
+padding-bottom: 7px;
+}
+
+
+.ved0:hover{
+border-color: black;
+border-style: solid;
+border-width: 2px;
+color: brown;
+background-color: gainsboro;
+border-radius: 30px;
+width: 50px;
+text-decoration: none;
+}
+
+
+.ved2{
+
+    border-radius: 30px;
+    border-style: solid;
+border-width: 2px;
+border-color: gray;
+margin-left: 5px;
+padding-left: 55px;
+padding-right: 55px;
+padding-top: 7px;
+padding-bottom: 7px;
+}
+.ved2:hover{
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    color: lawngreen;
+    background-color: gainsboro;
+    color: brown;
+    border-radius: 30px;
+    text-decoration: none;
+
+    
+    }
+    
